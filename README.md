@@ -20,3 +20,9 @@ G G G
 G G G
 B B B
 ```
+
+> Note: for this implementation, the colour replacer does not replace colours in diagonally adjacent pixels. 
+> After playing around with [an online paint tool](https://paint.js.org/) (brings me back), that should be the correct
+> behaviour for a colour replacer/bucket tool.
+
+![Christmas bauble drawn to experiment with how the implementation should work](./christmas_bauble.png)
