@@ -21,8 +21,9 @@ G G G
 B B B
 ```
 
-> Note: for this implementation, the colour replacer does not replace colours in diagonally adjacent pixels. 
+> Note: for this implementation, the colour replacer does not replace colours in diagonally adjacent pixels.
+> In fact, this works more like a paint bucket tool in the olden Windows Paint application.
 > After playing around with [an online paint tool](https://paint.js.org/) (brings me back), that should be the correct
-> behaviour for a colour replacer/bucket tool.
+> behaviour for a colour replacer/paint bucket tool.
 
 ![Christmas bauble drawn to experiment with how the implementation should work](./christmas_bauble.png)
